@@ -26,7 +26,7 @@ function Success() {
         <p className="email-msg">Check your email inbox for the receipt</p>
         <p className="description">
           If you have any questions please email
-          <a href="mailto:order@example.com" className="email">
+          <a href="mailto:enduo@gmail.com" className="email">
             order@example.com
           </a>
         </p>
